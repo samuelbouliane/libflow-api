@@ -1,6 +1,6 @@
 /// <reference types="@kitajs/html/htmx.d.ts" />
 import { Html } from "@kitajs/html";
 
-const fooHtmx = <div>Foo</div>;
+const foo = <div>Foo</div>;
 
-export { fooHtmx };
+export default foo;
